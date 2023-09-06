@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import img1 from "../Product Images/img-1.png";
 import img2 from "../Product Images/img-2.png";
-import frame1 from "../Product Images/frame-1.webp";
-import frame2 from "../Product Images/frame-3.webp";
+import frame1 from "../Product Images/frame-1.jpg";
+import frame2 from "../Product Images/frame-3.jpg";
 import charger from "../Product Images/charger.jpeg";
 import battery1 from "../Product Images/16kmah-battery.jpeg";
 import battery2 from "../Product Images/22kmah-battery.jpeg";
